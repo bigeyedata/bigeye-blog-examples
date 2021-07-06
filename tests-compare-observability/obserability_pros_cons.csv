@@ -1,0 +1,4 @@
+The good,The bad
+Can detect unknown unknowns,Can quickly increase warehouse load
+Much faster setup time (especially at scale),Doesn’t stop bad data flowing downstream
+Adapts to natural changes in data easily,Need super solid anomaly detection algo’s or you get alert storms
